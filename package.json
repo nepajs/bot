@@ -9,7 +9,7 @@
   "author": "NEPA.js",
   "license": "ISC",
   "dependencies": {
-    "slackbots": "^0.5.3",
+    "botkit": "^0.5.2",
     "sqlite3": "^3.1.8"
   }
 }
